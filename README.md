@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Jr`**
 
-chamo João Pedro, tenho 25 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Meus estudos são focados em Desenvolvimento e CyberSegurança, e nesse Repositório deixo alguns dos meus códigos.
+Eu me chamo João Pedro, tenho 25 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Meus estudos são focados em Desenvolvimento e CyberSegurança, e nesse Repositório deixo alguns dos meus códigos.
 
 ---
 
